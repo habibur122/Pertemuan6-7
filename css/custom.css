@@ -1,0 +1,10 @@
+.logo {
+    height: 100px;
+    margin-left: 500px;
+}
+.navbar-nav li {
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 13px;
+    font-weight: 500;
+}
